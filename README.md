@@ -1,2 +1,2 @@
 # ML-Homework
-Homeworks and Relevant codes are uploades
+Homeworks and Relevant codes are here
